@@ -1,0 +1,25 @@
+{
+    "ui": {
+      "thermostat": "Termostato",
+      "lights_and_shades": "Luces y Persianas",
+      "scenarios": "Escenarios",
+      "consigne": "Punto de Ajuste",
+      "level": "Nivel"
+    },
+    "devices": {
+      "light_1": "Tira de Cama",
+      "light_2": "Tira de Cama",
+      "light_3": "Lámpara de Dormitorio",
+      "shutter_1": "Persiana del Dormitorio"
+    },
+    "commands": {
+      "open": "Subir",
+      "stop": "Detener",
+      "close": "Bajar"
+    },
+    "snenarios": {
+      "night": "Noche",
+      "morning": "Despertar",
+      "consultation": "Consulta"
+    }
+}

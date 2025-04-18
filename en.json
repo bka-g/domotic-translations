@@ -1,0 +1,25 @@
+{
+  "ui": {
+    "thermostat": "Thermostat",
+    "lights_and_shades": "Lights and Shades",
+    "scenarios": "Scenarios",
+    "consigne": "Setpoint",
+    "level": "Level"
+  },
+  "devices": {
+    "light_1": "Bedside Strip",
+    "light_2": "Bedside Strip",
+    "light_3": "Bedroom Lamp",
+    "shutter_1": "Bedroom Shutter"
+  },
+  "commands": {
+    "open": "Up",
+    "stop": "Stop",
+    "close": "Down"
+  },
+  "snenarios": {
+    "night": "Night",
+    "morning": "Wake Up",
+    "consultation": "Consultation"
+    }
+  }

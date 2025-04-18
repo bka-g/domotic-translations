@@ -1,0 +1,25 @@
+{
+    "ui": {
+        "thermostat": "Thermostat",
+        "lights_and_shades": "Lichter und Jalousien",
+        "scenarios": "Szenarien",
+        "consigne": "Sollwert",
+        "level": "Niveau"
+    },
+    "devices": {
+        "light_1": "Bettstreifen",
+        "light_2": "Bettstreifen",
+        "light_3": "Schlafzimmerlampe",
+        "shutter_1": "Schlafzimmerrollo"
+    },
+    "commands": {
+        "open": "Hoch",
+        "stop": "Stopp",
+        "close": "Runter"
+    },
+    "snenarios": {
+        "night": "Nacht",
+        "morning": "Aufwachen",
+        "consultation": "Beratung"
+    }
+}
