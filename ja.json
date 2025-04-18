@@ -1,0 +1,25 @@
+{
+    "ui": {
+        "thermostat": "サーモスタット",
+        "lights_and_shades": "照明とシェード",
+        "scenarios": "シナリオ",
+        "consigne": "設定値",
+        "level": "レベル"
+    },
+    "devices": {
+        "light_1": "ベッドサイドストリップ",
+        "light_2": "ベッドサイドストリップ",
+        "light_3": "寝室ランプ",
+        "shutter_1": "寝室シャッター"
+    },
+    "commands": {
+        "open": "上げる",
+        "stop": "停止",
+        "close": "下げる"
+    },
+    "snenarios": {
+        "night": "夜",
+        "morning": "目覚め",
+        "consultation": "相談"
+    }
+}
