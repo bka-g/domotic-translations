@@ -1,0 +1,21 @@
+{
+    "ui": {
+      "thermostat": "Thermostat",
+      "lights_and_shades": "Lumières et Stores",
+      "scenarios": "Scénarios",
+      "consigne": "Consigne",
+      "shade_control": "Contrôle des Stores"
+    },
+    "devices": {
+      "shelly-plug-1": "Bandeau de lit",
+      "30": "Bandeau de lit",
+      "2": "Stores",
+      "3": "Température chambre",
+      "4": "Ventilateur"
+    },
+    "commands": {
+      "switchOn": "Allumer",
+      "switchOff": "Éteindre",
+      "setBrightness": "Luminosité"
+    }
+  }
