@@ -4,18 +4,22 @@
       "lights_and_shades": "Lumières et Stores",
       "scenarios": "Scénarios",
       "consigne": "Consigne",
-      "shade_control": "Contrôle des Stores"
+      "level": "Niveau"
     },
     "devices": {
-      "shelly-plug-1": "Bandeau de lit",
-      "30": "Bandeau de lit",
-      "2": "Stores",
-      "3": "Température chambre",
-      "4": "Ventilateur"
+      "light_1": "Bandeau de lit",
+      "light_2": "Bandeau de lit",
+      "light_3": "Lampe de chambre",
+      "shutter_1": "Store de la chambre"
     },
     "commands": {
       "open": "Haut",
       "stop": "Stop",
       "close": "Bas"
-    }
+    },
+    "snenarios": {
+        "night": "Nuit",
+        "morning": "Reveil",
+        "consultation": "Consultation"
+      }
   }
