@@ -16,6 +16,6 @@
     "commands": {
       "open": "Haut",
       "stop": "Stop",
-      "down": "Bas"
+      "close": "Bas"
     }
   }
