@@ -14,8 +14,8 @@
       "4": "Ventilateur"
     },
     "commands": {
-      "switchOn": "Allumer",
-      "switchOff": "Éteindre",
-      "setBrightness": "Luminosité"
+      "open": "Haut",
+      "stop": "Stop",
+      "down": "Bas"
     }
   }
