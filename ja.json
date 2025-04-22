@@ -5,7 +5,7 @@
         "scenarios": "シナリオ",
         "consigne": "設定値",
         "level": "レベル",
-        "network-error": "サーバーへの接続が失われました"
+        "network-error": "オフラインモード - 接続不可"
     },
     "devices": {
         "light_1": "ベッドサイドストリップ",

@@ -5,7 +5,7 @@
       "scenarios": "Scénarios",
       "consigne": "Consigne",
       "level": "Niveau",
-      "network-error": "Connexion au serveur perdue"
+      "network-error": "Mode hors ligne - Connexion indisponible"
     },
     "devices": {
       "light_1": "Bandeau de lit",

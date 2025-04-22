@@ -5,7 +5,7 @@
     "scenarios": "Scenarios",
     "consigne": "Setpoint",
     "level": "Level",
-    "network-error": "Connection to the server lost"
+    "network-error": "Offline mode - Connection unavailable"
   },
   "devices": {
     "light_1": "Bedside Strip",

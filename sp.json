@@ -5,7 +5,7 @@
       "scenarios": "Escenarios",
       "consigne": "Punto de Ajuste",
       "level": "Nivel",
-      "network-error": "Conexión al servidor perdida"
+      "network-error": "Modo fuera de línea - Conexión no disponible"
     },
     "devices": {
       "light_1": "Tira de Cama",
