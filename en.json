@@ -4,7 +4,8 @@
     "lights_and_shades": "Lights and Shades",
     "scenarios": "Scenarios",
     "consigne": "Setpoint",
-    "level": "Level"
+    "level": "Level",
+    "network-error": "Connection to the server lost"
   },
   "devices": {
     "light_1": "Bedside Strip",

@@ -4,7 +4,8 @@
         "lights_and_shades": "Lichter und Jalousien",
         "scenarios": "Szenarien",
         "consigne": "Sollwert",
-        "level": "Niveau"
+        "level": "Niveau",
+        "network-error": "Verbindung zum Server verloren"
     },
     "devices": {
         "light_1": "Bettstreifen",

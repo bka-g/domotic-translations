@@ -4,7 +4,8 @@
         "lights_and_shades": "照明とシェード",
         "scenarios": "シナリオ",
         "consigne": "設定値",
-        "level": "レベル"
+        "level": "レベル",
+        "network-error": "サーバーへの接続が失われました"
     },
     "devices": {
         "light_1": "ベッドサイドストリップ",

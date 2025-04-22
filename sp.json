@@ -4,7 +4,8 @@
       "lights_and_shades": "Luces y Persianas",
       "scenarios": "Escenarios",
       "consigne": "Punto de Ajuste",
-      "level": "Nivel"
+      "level": "Nivel",
+      "network-error": "Conexión al servidor perdida"
     },
     "devices": {
       "light_1": "Tira de Cama",

@@ -4,7 +4,8 @@
       "lights_and_shades": "Lumières et Stores",
       "scenarios": "Scénarios",
       "consigne": "Consigne",
-      "level": "Niveau"
+      "level": "Niveau",
+      "network-error": "Connexion au serveur perdue"
     },
     "devices": {
       "light_1": "Bandeau de lit",
