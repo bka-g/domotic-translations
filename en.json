@@ -6,7 +6,7 @@
     "consigne": "Setpoint",
     "level": "Level",
     "network-error": "Offline mode - Connection unavailable",
-    "call_nurse": "Call Nurse"
+    "call_nurse": "Nurse Call"
   },
   "devices": {
     "light_1": "Bedside Strip",
