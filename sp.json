@@ -5,7 +5,8 @@
       "scenarios": "Escenarios",
       "consigne": "Punto de Ajuste",
       "level": "Nivel",
-      "network-error": "Modo fuera de línea - Conexión no disponible"
+      "network-error": "Modo fuera de línea - Conexión no disponible",
+      "call_nurse": "Llamar a Enfermera"
     },
     "devices": {
       "light_1": "Tira de Cama",

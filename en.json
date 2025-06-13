@@ -5,7 +5,8 @@
     "scenarios": "Scenarios",
     "consigne": "Setpoint",
     "level": "Level",
-    "network-error": "Offline mode - Connection unavailable"
+    "network-error": "Offline mode - Connection unavailable",
+    "call_nurse": "Call Nurse"
   },
   "devices": {
     "light_1": "Bedside Strip",

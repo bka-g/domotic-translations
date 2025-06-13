@@ -5,7 +5,9 @@
         "scenarios": "Szenarien",
         "consigne": "Zielwert",
         "level": "Ebene",
-        "network-error": "Offline-Modus - Verbindung nicht verfügbar"
+        "network-error": "Offline-Modus - Verbindung nicht verfügbar",
+        "call_nurse": "Ruf Pflegekraft"
+
     },
     "devices": {
         "light_1": "Bettstreifen",

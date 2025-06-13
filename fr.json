@@ -5,7 +5,8 @@
       "scenarios": "Scénarios",
       "consigne": "Consigne",
       "level": "Niveau",
-      "network-error": "Mode hors ligne - Connexion indisponible"
+      "network-error": "Mode hors ligne - Connexion indisponible",
+      "call_nurse": "Appel soignant"
     },
     "devices": {
       "light_1": "Bandeau de lit",

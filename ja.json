@@ -5,7 +5,8 @@
         "scenarios": "シナリオ",
         "consigne": "設定値",
         "level": "レベル",
-        "network-error": "オフラインモード - 接続不可"
+        "network-error": "オフラインモード - 接続不可",
+        "call_nurse": "看護師を呼ぶ"
     },
     "devices": {
         "light_1": "ベッドサイドストリップ",
